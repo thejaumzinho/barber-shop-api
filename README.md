@@ -16,6 +16,7 @@ The project leverages modern backend technologies to ensure scalability, maintai
 - **PostgreSQL** – Relational database for data storage
 - **Flyway** – Database version control and migrations
 - **JPA/Hibernate** – ORM for database interaction
+- **MapStruct** - Object Mapping Framework for DTO conversions
 - **Docker** – Containerization for consistent deployment
 
 ## Features
